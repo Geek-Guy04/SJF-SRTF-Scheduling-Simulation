@@ -8,6 +8,6 @@ Just download the file or copy the code then, compile to execute it.
 
 
 # Output
-![Output Screenshot](Screenshots/SJF-SRTF.jpg)  
+![Output Screenshot](Screenshots/SJF-SRTF.png)  
 
 
